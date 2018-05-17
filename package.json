@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description":
     "Mask input component. Allow to input formatted values with fixed length or apply custom formatting function, to format values with any length",
-  "main": "./lib/maskInput.js",
+  "main": "./lib/MaskInput.js",
   "scripts": {
     "build": "babel ./src --out-dir ./lib",
     "size": "size-limit",
