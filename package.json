@@ -1,6 +1,6 @@
 {
   "name": "mask-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description":
     "Mask input component. Allow to input formatted values with fixed length or apply custom formatting function, to format values with any length",
   "main": "./lib/MaskInput.js",

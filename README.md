@@ -72,6 +72,8 @@ VanilaJs maskInput support all props, that support react-maskinput: https://gith
 
 # Changelog
 
+1.0.2 Fix filename mismatch ( thanks to @makenosound )
+
 1.0.1 Move vanilla mask input to separate repository, use prettier to unify formatting
 
 1.0.0 several changes:
